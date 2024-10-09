@@ -28,8 +28,6 @@ Não há aulas específicas para o desafio, por isso devemos desenvolver com o c
 
 O Desafio dura 4 semanas. Todas as segundas-feiras durante 3 semanas receberemos novos trabalhos dos designers e devemos desenvolver o que foi pedido. Na semana 4, estamos livres para implementar novos recursos ou brincar com estilos e outros questões de aparência.
 
-O Desafio começou em 14 de março de 2022.
-
 ### 📈 Etapas do projeto
 
 - **Semana 1:** Desenvolvimento das estruturas e estilizações. No meu caso, escolhi desenvolver em HTML e CSS.
